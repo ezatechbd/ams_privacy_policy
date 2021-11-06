@@ -79,7 +79,7 @@ We will only keep your personal information for as long as it is necessary for t
  
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-# How Do Keep Information Safe
+# How Do We Keep Information Safe?
 
 **In Short:  We aim to protect your personal information through a system of organizational and technical security measures.**
 
@@ -101,7 +101,7 @@ Our Service does not address anyone under the age of 13. We do not knowingly col
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 
-# How Can You Contact US About This Notice?
+# How Can You Contact Us About This Notice?
 
 If you have questions or comments about this notice, you may email us at **support@atilimited.net** or by post to:
  
